@@ -1,2 +1,2 @@
 # RhythmFlow
-Code will be released upon publication (WACV 2027, January 2027)
+Code will be released soon upon publication (WACV 2027, January 2027)
